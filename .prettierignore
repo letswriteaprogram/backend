@@ -1,0 +1,26 @@
+#Ignore the .env (environment variable ) files
+*.env
+.env 
+.env.*
+
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore build and dist directories
+
+build/
+dist/
+
+# Ignore all .md (Markdown) files
+*.md
+
+# Ignore specific file
+src/legacyCode.js
+
+# Ignore all files in a specific subdirectory
+
+src/old_code/*
+
+# Ignore JSON files
+
+*.json
