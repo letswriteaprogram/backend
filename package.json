@@ -1,0 +1,14 @@
+{
+  "name": "backend-ytube",
+  "version": "1.0.0",
+  "description": "ytube backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "shubham patidar",
+  "license": "ISC"
+}
